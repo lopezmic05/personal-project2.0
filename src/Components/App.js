@@ -1,6 +1,6 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
-import {Navbar, Home, About, Projects} from "./";
+import {Navbar, Home, About, Projects, Footer} from "./";
 
 function App() {
   return (
@@ -13,6 +13,7 @@ function App() {
               <Route path='/projects' element={<Projects />}/>
         </Routes>
       </div>
+      <Footer />
     </div>
   );
 }

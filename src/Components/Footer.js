@@ -9,7 +9,7 @@ const Footer = () => {
     <box-icon type='logo' name='github'></box-icon>
     <box-icon type='logo' name='linkedin-square'></box-icon>
     </div>
-    <p>Michael Lopez &copy; 2022</p>
+    <p>Michael Lopez &copy; 2023</p>
     </div>
   ) 
 };

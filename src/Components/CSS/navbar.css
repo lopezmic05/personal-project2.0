@@ -2,13 +2,19 @@
 .navBody{
     margin: 0;
     padding: 0;
-    background-color: aqua;
+    background-color: #83ada8;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
 }
 
 .logo{
     font-size: 15px;
 }
 
-#links{
+.links{
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
 
 }

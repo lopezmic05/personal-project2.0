@@ -1,20 +1,27 @@
 
 .navBody{
-    margin: 0;
-    padding: 0;
+    padding: 20px;
     background-color: #83ada8;
     border: 1px solid red;
     display: flex;
     justify-content: space-between;
+    
 }
 
 .logo{
-    font-size: 15px;
+    font-size: 20px;
 }
 
-.links{
+#links{
+    font-size: 20px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    text-decoration: none;
+    gap: 20px;
     color: aliceblue;
 
+}
+
+#links:hover{
+    color: rgb(90, 85, 85);
 }

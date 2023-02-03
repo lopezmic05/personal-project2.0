@@ -9,6 +9,7 @@ const Footer = () => {
     <a href="https://github.com/lopezmic05" target={"_blank"}><box-icon type='logo' name='github'></box-icon></a>
     <a href="https://www.linkedin.com/in/michaellopez05/" target={"_blank"}><box-icon type='logo' name='linkedin-square'></box-icon></a>
     </div>
+    <div className="email">email: michael.94lopez@gmail.com</div>
     </div>
   ) 
 };

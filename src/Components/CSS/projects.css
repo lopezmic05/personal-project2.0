@@ -1,0 +1,22 @@
+.mainProjects{
+    margin:10px ;
+    border: 1px solid red;
+}
+
+.projectTitle{
+    display: flex;
+    justify-content: center;
+}
+.firstProject{
+    margin: 10px;
+    border: 1px solid red;
+}
+
+.secondProject{
+    margin: 10px;
+    border: 1px solid red;
+}
+.thirdProject{
+    margin: 10px;
+    border: 1px solid red;
+}

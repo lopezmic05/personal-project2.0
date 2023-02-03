@@ -5,7 +5,9 @@ const About = () => {
     <div>
     <h2>My name is Michael Lopez!</h2>
     <p>I am a Software Engineer!</p>
-    <p></p>
+    <div className="resumeBtn">
+      <button>Resume</button>
+    </div>
     </div>
   )
 };

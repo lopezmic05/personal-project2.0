@@ -1,6 +1,6 @@
 
 .navBody{
-    padding: 20px;
+    padding: 10px;
     background-color: #83ada8;
     border: 1px solid red;
     display: flex;
@@ -9,6 +9,7 @@
 }
 
 .logo{
+    color: aliceblue;
     font-size: 20px;
 }
 

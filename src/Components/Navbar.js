@@ -10,7 +10,7 @@ const Navbar = () => {
       <nav className='links' id="links">
         <Link id="links" exact to='/'>Home</Link>
         <Link id="links" to='about'>About Me</Link>
-        <Link id="links" to='portfolio'>Portfolio</Link>
+        <Link id="links" to='projects'>Projects</Link>
       </nav>
     </div>
   );
